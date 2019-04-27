@@ -38,3 +38,13 @@ Conclusiones sobre sección "Empresas"
 - Detalles de contacto que más requieren: foto no es relevante, correo, teléfono, whatsapp, anotar si el contacto ya no labora en la empresa, descripción de las posiciones o cargos.
 - Mayor detalle sobre las posiciones que ofrecen las empresas.
 - Tener información del status actual de la relación con la empresa.
+
+Conclusiones sobre sección "Egresadas"
+- Histórico debe incluir información sobre trabajos anteriores, procesos actuales en los que se encuentra, experiencia, historial por fechas.
+- Sección "Otros datos" da a entender que son datos irrelevantes.
+- Sobre filtros de estudiantes: generación, países y ubicación en vez de distrito que es una palabra que no se entiende en todos los países, idiomas, habilidades soft.
+- Palabra "Histórico" no se entiende a qué se refiere.
+- Incluir información detalla sobre es estado actual de la egresada.
+- Poder saber de forma automática si la egresada aceptó alguna oferta.
+- Alerta cuando la egresada ha superado 5 procesos seguidos que no hay superado.
+- Dar mayor información sobre background y conocimientos adicionales para realizar recomendaciones.
