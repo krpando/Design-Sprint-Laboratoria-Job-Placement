@@ -12,9 +12,19 @@ Actualmente, tenemos una herramienta que hace más fácil el proceso de registra
 ## Reto
 Entender cómo y en qué momento del proceso podemos seguir agregándoles valor a los JPMs para que el tiempo que tienen lo puedan invertir, a su vez, en generar más valor para Laboratoria.
 
-
 ## Viernes
 Testeo de la solución
+
+Conclusiones sobre sección "Dashboard"
+- Calendario debería ser clickeable y anexar a las otras secciones.
+- Prefieren usaar el calendario de Google.
+- El dashboard no transmite la idea de que es una agenda.
+- Agregar procesos activos.
+- En vez de fechas diarios, un planificador mensual.
+- Dashboard de empleabilidad debería mostrar el general y no por generaciones.
+- Incluir reuniones programadas con empresas, no solo las entrevistas agendadas a egresadas.
+- Cómo se vería si en un día tengo programadas más de 3 reuniones.
+
 Conclusiones sobre sección "Empresas"
 - Algunos JPMs ya tiene mapeados los contactos de las empresas y no les genera valor tenerlos en la plataforma.
 - Prefieren tener un historial (como una historia clínica) que refleje la relación con la empresa antes que notas que no ofrezcan información sobre el tiempo o eventos importantes como reuniones.
