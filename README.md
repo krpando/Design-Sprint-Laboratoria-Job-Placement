@@ -11,3 +11,20 @@ Actualmente, tenemos una herramienta que hace más fácil el proceso de registra
 
 ## Reto
 Entender cómo y en qué momento del proceso podemos seguir agregándoles valor a los JPMs para que el tiempo que tienen lo puedan invertir, a su vez, en generar más valor para Laboratoria.
+
+
+## Viernes
+Testeo de la solución
+Conclusiones sobre sección "Empresas"
+- Algunos JPMs ya tiene mapeados los contactos de las empresas y no les genera valor tenerlos en la plataforma.
+- Prefieren tener un historial (como una historia clínica) que refleje la relación con la empresa antes que notas que no ofrezcan información sobre el tiempo o eventos importantes como reuniones.
+- Poder visualizar empresas con mayor presencia o relaciones más cercanas con Laboratoria.
+- Agregar recomendaciones sobre la relación que se tiene con algunos contactos o personas de confianza dentro de la empresa.
+- Posibilidad de etiquetar favoritos entre los contactos de una empresa y colocar anotaciones sobre cada uno que ayuden a recordar la relación generada con dicha persona.
+- El nombre "notas" no se entiende y no transmite el objetivo de la sección con claridad.
+- Banco de datos que albergue información variada y de valor sobre las empresas, que ayude a reducir el tiempo en investigar sobre cada una.
+- Especificar quién realiza el llenado de la sección de notas.
+- Sección notas debe tener información sobre insights que permitan entender a la empresa.
+- Detalles de contacto que más requieren: foto no es relevante, correo, teléfono, whatsapp, anotar si el contacto ya no labora en la empresa, descripción de las posiciones o cargos.
+- Mayor detalle sobre las posiciones que ofrecen las empresas.
+- Tener información del status actual de la relación con la empresa.
