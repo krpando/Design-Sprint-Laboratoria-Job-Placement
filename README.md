@@ -12,7 +12,36 @@ Actualmente, tenemos una herramienta que hace más fácil el proceso de registra
 ## Reto
 Entender cómo y en qué momento del proceso podemos seguir agregándoles valor a los JPMs para que el tiempo que tienen lo puedan invertir, a su vez, en generar más valor para Laboratoria.
 
-## Viernes
+## Lunes (Mapear)
+
+*Meta a largo plazo*:  
+Que los JPMs realicen un trabajo menos operativo (más estratégico) con ayuda de herramientas.
+
+*Preguntas del Sprint*:
+- ¿Será necesario contratar personal extra para descargar el trabajo de las y los JPMs?
+- ¿Cómo demostrar la validadez, usabilidad y valor de la aplicación?
+
+*Mapa*:
+![CustomerJourneyMap](src/CustomerJM.png) 
+
+*Preguntas a expertos*:
+![Lunes_1](src/Lunes_1.png) 
+![Lunes_2](src/Lunes_2.png) 
+![Lunes_3](src/Lunes_3.png) 
+
+*Principales 'How might we...'*
+
+*Objetivo priorizado*
+
+
+## Martes (Sketchar)
+
+## Miércoles (Decidir)
+
+## Jueves (Prototipar)
+
+## Viernes (Testear) 
+
 Testeo de la solución
 
 Conclusiones sobre sección "Dashboard"
