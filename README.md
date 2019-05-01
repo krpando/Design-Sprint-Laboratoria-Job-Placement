@@ -21,18 +21,29 @@ Que los JPMs realicen un trabajo menos operativo (más estratégico) con ayuda d
 - ¿Será necesario contratar personal extra para descargar el trabajo de las y los JPMs?
 - ¿Cómo demostrar la validadez, usabilidad y valor de la aplicación?
 
-*Mapa*:
+*Mapa del proceso de colocación laboral*:  
+
 ![CustomerJourneyMap](src/CustomerJM.png) 
 
-*Preguntas a expertos*:
-![Lunes_1](src/Lunes_1.png) 
-![Lunes_2](src/Lunes_2.png) 
-![Lunes_3](src/Lunes_3.png) 
+*Preguntas a expertos con Andrea Lamas, Product Director: Job Placement de Laboratoria*:  
+
+![Lunes_AndreaLamas](src/Lunes_1.png) 
+![Lunes_HMW1](src/Lunes_2.png) 
+![Lunes_HMW2](src/Lunes_3.png) 
 
 *Principales 'How might we...'*
 
-*Objetivo priorizado*
+- Reflejar en los perfiles el match cultural que las egresadas tienen con la empresa que busca talento?
+- Concientizar a las egresadas para que comuniquen los procesos de selección o postulaciones a las que se están presentando?
+- Transmitir exclusividad?
+- Evitar que las empresas se salten los pasos del proceso y contacten directamente a las egresadas?
+- Fomentar el uso de la App de Talento por parte de las empresas?
+- Reflejar el seguimiento en tiempo real de los procesos que sigue la egresada y los resultados?
+- Agilizar y reducir la operatividad de los procesos de seguimiento de colocación laboral?
 
+*Objetivo priorizado*  
+
+Reducir la operatividad de los procesos de seguimiento de colocación laboral de las egresadas de Laboratoria.
 
 ## Martes (Sketchar)
 
