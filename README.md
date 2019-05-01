@@ -14,24 +14,24 @@ Entender cómo y en qué momento del proceso podemos seguir agregándoles valor 
 
 ## Lunes (Mapear)
 
-*Meta a largo plazo*:  
+### *Meta a largo plazo:*  
 Que los JPMs realicen un trabajo menos operativo (más estratégico) con ayuda de herramientas.
 
-*Preguntas del Sprint*:
+### *Preguntas del Sprint:*
 - ¿Será necesario contratar personal extra para descargar el trabajo de las y los JPMs?
 - ¿Cómo demostrar la validadez, usabilidad y valor de la aplicación?
 
-*Mapa del proceso de colocación laboral*:  
+### *Mapa del proceso de colocación laboral:*  
 
 ![CustomerJourneyMap](src/CustomerJM.png) 
 
-*Preguntas a expertos con Andrea Lamas, Product Director: Job Placement de Laboratoria*:  
+### *Preguntas a expertos con Andrea Lamas, Product Director: Job Placement de Laboratoria*:  
 
 ![Lunes_AndreaLamas](src/Lunes_1.png) 
 ![Lunes_HMW1](src/Lunes_2.png) 
 ![Lunes_HMW2](src/Lunes_3.png) 
 
-*Principales 'How might we...'*
+### *Principales 'How might we...':*
 
 - Reflejar en los perfiles el match cultural que las egresadas tienen con la empresa que busca talento?
 - Concientizar a las egresadas para que comuniquen los procesos de selección o postulaciones a las que se están presentando?
@@ -41,50 +41,73 @@ Que los JPMs realicen un trabajo menos operativo (más estratégico) con ayuda d
 - Reflejar el seguimiento en tiempo real de los procesos que sigue la egresada y los resultados?
 - Agilizar y reducir la operatividad de los procesos de seguimiento de colocación laboral?
 
-*Objetivo priorizado*  
+### *Objetivo priorizado:*  
 
 Reducir la operatividad de los procesos de seguimiento de colocación laboral de las egresadas de Laboratoria.
 
 ## Martes (Sketchar)
 
+### *Lighting demos:*  
+(Fotografías de las principales ideas rescatadas)
+
+### *Ideas:*  
+(Principales ideas que eran buenas pero no se priorizaron)
+
+### *Crazy 8s:*  
+(Fotografías de los bocetos)
+
+### *Propuestas preliminares - Solución en 3 pasos:*  
+(Fotografías de las 3 propuestas)
+
 ## Miércoles (Decidir)
+
+### *Museo de arte:*  
+(Tenemos fotografías de esto?)
+
+### *Decisión - Ideas priorizadas:*  
+(Fotografía de la/las ideas priorizadas o explicación de las razones por las que se elige)
+
+### *Storyboard:*  
+(Fotografías del proceso y/o el producto final)
 
 ## Jueves (Prototipar)
 
+###  *Prototipo:*
+(Gif o imágenes del prototipo con descripción de cada escena)
+
+Prueba el prototipo en el siguiente [enlace](https://colocar-aquí-el-link-correspondiente).
+
 ## Viernes (Testear) 
 
-Testeo de la solución
-
-Conclusiones sobre sección "Dashboard"
+### *Conclusiones sobre sección `Dashboard`:*
 - Calendario debería ser clickeable y anexar a las otras secciones.
-- Prefieren usaar el calendario de Google.
+- Prefieren usar el calendario de Google.
+- En vez de mostrar las fechas de forma diaria, les gustaría tener algo que se asemeje a un planificador mensual.
+- Les gustaría poder incluir reuniones programadas con empresas, no solo las entrevistas agendadas a egresadas.
 - El dashboard no transmite la idea de que es una agenda.
-- Agregar procesos activos.
-- En vez de fechas diarios, un planificador mensual.
-- Dashboard de empleabilidad debería mostrar el general y no por generaciones.
-- Incluir reuniones programadas con empresas, no solo las entrevistas agendadas a egresadas.
-- Cómo se vería si en un día tengo programadas más de 3 reuniones.
+- Se preguntan cómo se vería el dashboard si en un día tienen programadas más de 3 reuniones.
+- Dashboard de empleabilidad debería mostrar data general y no por generaciones.
 
-Conclusiones sobre sección "Empresas"
-- Algunos JPMs ya tiene mapeados los contactos de las empresas y no les genera valor tenerlos en la plataforma.
-- Prefieren tener un historial (como una historia clínica) que refleje la relación con la empresa antes que notas que no ofrezcan información sobre el tiempo o eventos importantes como reuniones.
-- Poder visualizar empresas con mayor presencia o relaciones más cercanas con Laboratoria.
+### *Conclusiones sobre sección `Empresas`:*
+- Algunos JPMs ya tiene mapeados los contactos de las empresas y no les genera valor tenerlos en la aplicación.
+- Desean poder tener un banco de datos que albergue información variada y de valor sobre las empresas, que ayude a reducir el tiempo en investigar sobre cada una.
+- Detalles de contacto que más requieren: foto no es relevante, correo, teléfono, whatsapp, anotar si el contacto ya no labora en la empresa, descripción de las posiciones o cargos.
+- El nombre "notas" no se entiende y no transmite el objetivo de la sección con claridad.
+
+- Sobre la sección "notas", prefieren tener un historial (como una historia clínica) que refleje la relación con la empresa antes que solo anotaciones que no ofrezcan información sobre los touchpoints con dicha entidad que les ayuden a comprender cómo se ha ido desarrollando esa relación y entenderles mejor.
+- Poder visualizar empresas con mayor presencia o relaciones más cercanas con Laboratoria y tener información del status actual de la relación con la empresa.
 - Agregar recomendaciones sobre la relación que se tiene con algunos contactos o personas de confianza dentro de la empresa.
 - Posibilidad de etiquetar favoritos entre los contactos de una empresa y colocar anotaciones sobre cada uno que ayuden a recordar la relación generada con dicha persona.
-- El nombre "notas" no se entiende y no transmite el objetivo de la sección con claridad.
-- Banco de datos que albergue información variada y de valor sobre las empresas, que ayude a reducir el tiempo en investigar sobre cada una.
-- Especificar quién realiza el llenado de la sección de notas.
-- Sección notas debe tener información sobre insights que permitan entender a la empresa.
-- Detalles de contacto que más requieren: foto no es relevante, correo, teléfono, whatsapp, anotar si el contacto ya no labora en la empresa, descripción de las posiciones o cargos.
-- Mayor detalle sobre las posiciones que ofrecen las empresas.
-- Tener información del status actual de la relación con la empresa.
+- Mayor detalle sobre las posiciones o puestos que ofrecen las empresas.
 
-Conclusiones sobre sección "Egresadas"
-- Histórico debe incluir información sobre trabajos anteriores, procesos actuales en los que se encuentra, experiencia, historial por fechas.
+### *Conclusiones sobre sección `Egresadas`:*
+- Palabra "histórico" no se entiende a qué se refiere.
+- Sección "histórico" debe incluir información sobre trabajos anteriores, procesos actuales en los que se encuentra, experiencia e historial por fechas.
 - Sección "Otros datos" da a entender que son datos irrelevantes.
-- Sobre filtros de estudiantes: generación, países y ubicación en vez de distrito que es una palabra que no se entiende en todos los países, idiomas, habilidades soft.
-- Palabra "Histórico" no se entiende a qué se refiere.
-- Incluir información detalla sobre es estado actual de la egresada.
+- Sobre filtros para ubicar egresadas, desean ver: por generación, idiomas, habilidades soft, países y ubicación en vez de distrito que es una palabra que no se entiende en todos los países.
 - Poder saber de forma automática si la egresada aceptó alguna oferta.
 - Alerta cuando la egresada ha superado 5 procesos seguidos que no hay superado.
-- Dar mayor información sobre background y conocimientos adicionales para realizar recomendaciones.
+- Incluir información detallada sobre es estado actual de la egresada y dar mayor información sobre background y conocimientos adicionales para realizar recomendaciones.
+
+## Conclusiones y retrospectiva del Sprint:
+(A ver, a ver, quién dice yo xD)
