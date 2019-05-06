@@ -51,7 +51,14 @@ Reducir la operatividad de los procesos de seguimiento de colocación laboral de
 (Fotografías de las principales ideas rescatadas)
 
 ### *Ideas:*  
-(Principales ideas que eran buenas pero no se priorizaron)
+1. Tener acceso a data histórica por empresa y egresada; asimismo, observar datos de contacto y enlace para contactarse con representante de Recursos Humanos.
+2. Integra Google Calendar, Slack y LinkedIn para generar citas de entrevistas de forma rápida y automática.
+3. Sección que permite dar y recibir feedback de los procesos por cada estudiantes, de forma sencilla, a través de tópicos generales.
+4. Sección que permite filtrar por empresa o candidata los procesos y status, eliminando de forma automática a quienes no continuan por finalización de contraro y otro factor.
+5. Sección que permite ubicar candidata que hace match con los valores y/cultura de la organización.
+6. Aplicación que ofrece valor a empresas y permite generar más entradas para obtener data que pueda analizarse.
+7. Sección que permite visualizar a tiempo real el status y momento del proceso en general que tiene cada egresada.
+8. Continuará...
 
 ### *Crazy 8s:*  
 (Fotografías de los bocetos)
