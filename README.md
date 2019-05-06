@@ -75,7 +75,9 @@ Asimismo, a partir de la explicación de cada propuesta por parte de la Facilita
 ## Jueves (Prototipar)
 
 ###  *Prototipo:*
-(Gif o imágenes del prototipo con descripción de cada escena)
+![Frame](https://user-images.githubusercontent.com/45070944/57256097-64423800-701b-11e9-8953-eb8459841d33.png)
+![Frame-1](https://user-images.githubusercontent.com/45070944/57256426-39a4af00-701c-11e9-9109-0e1b7e46e245.png)
+![Frame-2](https://user-images.githubusercontent.com/45070944/57256487-580aaa80-701c-11e9-8ed8-08e4a01aece3.png)
 
 Prueba el prototipo en el siguiente [enlace](https://colocar-aquí-el-link-correspondiente).
 
