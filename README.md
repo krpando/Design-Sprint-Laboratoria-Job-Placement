@@ -82,7 +82,7 @@ Asimismo, a partir de la explicación de cada propuesta por parte de la Facilita
 ## Jueves (Prototipar)
 
 ###  *Prototipo:*
-![Frame](https://user-images.githubusercontent.com/45070944/57256097-64423800-701b-11e9-8953-eb8459841d33.png)
+![Frame](https://user-images.githubusercontent.com/45070944/57258255-86d74f80-7021-11e9-8815-f9df79a4fe7f.png)
 ![Frame-1](https://user-images.githubusercontent.com/45070944/57256426-39a4af00-701c-11e9-9109-0e1b7e46e245.png)
 ![Frame-2](https://user-images.githubusercontent.com/45070944/57256487-580aaa80-701c-11e9-8ed8-08e4a01aece3.png)
 
