@@ -62,7 +62,9 @@ Reducir la operatividad de los procesos de seguimiento de colocación laboral de
 ## Miércoles (Decidir)
 
 ### *Museo de arte:*  
-(Tenemos fotografías de esto?)
+Colocamos en fila las propuestas preliminares en la pared como si fueran cuadros de un museo con el fin que sean observados de forma objetiva por todos los miembros del equipo para luego destacar con stickers, en silencio, a cualquiera de las ideas interesantes que abrió paso a prepararnos para tomar decisiones. 
+
+Asimismo, a partir de la explicación de cada propuesta por parte de la Facilitadora y la explicación de los creadores de los bocetos para no dejar pasar ningún detalle, las miembros del equipo procedimos a elegir la(s) idea(s) o una parte de la misma con más potencial donde la decisión final la tuvo la Product Director.
 
 ### *Decisión - Ideas priorizadas:*  
 (Fotografía de la/las ideas priorizadas o explicación de las razones por las que se elige)
