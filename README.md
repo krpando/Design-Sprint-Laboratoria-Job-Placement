@@ -86,7 +86,7 @@ Asimismo, a partir de la explicación de cada propuesta por parte de la Facilita
 ![Frame](https://user-images.githubusercontent.com/45070944/57258255-86d74f80-7021-11e9-8815-f9df79a4fe7f.png)
 ![Frame-1](https://user-images.githubusercontent.com/45070944/57256426-39a4af00-701c-11e9-9109-0e1b7e46e245.png)
 
-Prueba el prototipo en el siguiente [enlace](https://colocar-aquí-el-link-correspondiente).
+Prueba el prototipo en el siguiente [enlace](https://marvelapp.com/478d097/screen/56185707).
 
 ## Viernes (Testear) 
 
