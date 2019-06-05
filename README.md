@@ -120,5 +120,47 @@ Prueba el prototipo en el siguiente [enlace](https://marvelapp.com/478d097/scree
 - Alerta cuando la egresada ha superado 5 procesos seguidos que no hay superado.
 - Incluir información detallada sobre es estado actual de la egresada y dar mayor información sobre background y conocimientos adicionales para realizar recomendaciones.
 
-## Conclusiones y retrospectiva del Sprint:
-(A ver, a ver, quién dice yo xD)
+## Hallazgos
+En esta sección daremos a conocer los hallazgos que detectamos luego de realizar los user tetsing.
+
+Home de la app:
+- Necesario reflejar el branding de la app (colores corporativos).
+- Integrar calendar en la app para observar reuniones en general.
+- Conocer el status general de las egresadas.
+
+Perfil para empresas:
+- Mostrar los detalles de contacto y poder establecer favoritos.
+- Cambiar el nombre del apartado de notas.
+- Considerar dashboards para conocer su relación con Laboratoria.
+- Añadir más detalles de la posición.
+
+Perfil para egresadas:
+- "Histórico" debe ser reemplazado por "Resumen de proceso", considerar dentro de esta sección las fechas y experiencia laboral.
+- "Otros" puede ser reemplazado por "Otras habilidades".
+- Priorizar los tipos de busqueda por generación, nivel de idioma, soft skills y ubicación, en ese orden.
+- Generar alerta para más de cinco procesos fallidos.
+- Incluir sección de background. 
+
+## Retrospectiva del Sprint:
+Como parte de nuestro ritual, realizamos el sprint checkout del proyecto y logramos destacar puntos relevantes que nos ayudarán a tener mejores resultados durante las siguientes iteraciones.
+
+¿Qué hicimos bien?
+- Seguir con la el plannig del design sprint, respetando tiempos.
+- Formato de trabajo colaborativo y flexible.
+- Comunicación horizontal con nuestra product owner.
+- Priorizar y saber que probar.
+- No tener miedo de equivocarnos.
+- Buen manejo de entrevistas
+
+¿Qué podemos mejorar?
+- Aplicar los principios del visual design.
+- Composición gráfica.
+- Alineación y jerarquia de componentes.
+- Apropiarnos de nuestro rol como facilitadoras.
+- Prototipos personalizados.
+
+¿Qué nuevo podemos hacer?
+- La experiencia previa entrevista remoto.
+- Aterrizar info en cada día y documentarla.
+- Registrar en su totalidad los archivos mutltimedia.
+- Incluir más perfiles (multidisciplinarios).
